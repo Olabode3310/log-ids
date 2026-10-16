@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments and editor settings
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+
+# Logs, generated reports, and operating-system files
+*.log
+reports/
+!reports/
+reports/*
+!reports/.gitkeep
+.DS_Store
+Thumbs.db
+
+# Generated formats
+*.html
+*.json
+*.csv
+# Keep curated fixtures tracked
+!sample_logs/events.csv

@@ -1,0 +1,2 @@
+timestamp,host,user,event,port
+2026-10-16T08:10:00Z,edge01,guest,connection,4444

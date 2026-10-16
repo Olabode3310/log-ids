@@ -1,0 +1,6 @@
+{
+  "failed_login_threshold": 5,
+  "event_volume_threshold": 1000,
+  "suspicious_user_agents": ["sqlmap", "nikto", "masscan", "python-requests"],
+  "unusual_ports": [23, 2323, 4444, 31337]
+}
